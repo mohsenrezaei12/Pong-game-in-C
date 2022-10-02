@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545047858 source:/home/mohsen/Desktop/NIGHT PONG/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ncurses.h>
+
